@@ -1,2 +1,2 @@
 # BERT-Movie-Review-Sentiment
-Sentiment analysis of movie reviews using BERT and PyTorch. This project demonstrates the application of the BERT (Bidirectional Encoder Representations from Transformers) model for classifying movie reviews into positive or negative sentiments using the Huggingface transformers library.
+Leveraging the power of transformer models for sentiment analysis, this project utilizes BERT, one of the most popular transformer architectures, to classify movie reviews into positive or negative sentiments. Implemented with the Huggingface Transformers library and PyTorch, it showcases the practical application and effectiveness of transformer models in understanding natural language
